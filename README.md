@@ -1,2 +1,1 @@
-# weibo
-a part of my blog
+A part of my blog.
